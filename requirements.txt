@@ -1,0 +1,7 @@
+pandas
+os
+warnings
+bs4
+requests
+selenium
+time
